@@ -16,7 +16,8 @@ float suma[10],resta[10],producto[10],division[10];
   
   //En esta parte de cod de Giler 
   
-  
+  // hola aqui voy a colocar mi codigo
+  cout<<"yo soy Bryan Steven";
   
   //En esta parte de cod de ..........
   
