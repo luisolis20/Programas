@@ -26,7 +26,7 @@ float suma[10],resta[10],producto[10],division[10];
   //En esta parte del profedor STalin
   //===================================
   
-   cout<<"Esta es una prueba para demostrar el funcionamiento de Github"<<endl
+   cout<<"Esta es una prueba para demostrar el funcionamiento de Github"<<endl;
     cout<<"Stalin Francis"<<endl;
   
 
