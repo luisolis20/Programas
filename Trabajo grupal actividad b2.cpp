@@ -57,6 +57,15 @@ for(int c=0;c<10;c++){
 	cout<<" - ";
 }
 cout<<endl;
+// Montaño Luis
+cout<<"\n";
+cout<<"Aqui se muestra la  division de la matriz 1 y la matriz 2 "<<endl;
+cout<<"**********************************"<<endl;
+for(int c=0;c<10;c++){
+	cout<<matriz1[c]/matriz2[c];
+	cout<<" - ";
+}
+cout<<endl;
 
 
 
