@@ -12,12 +12,12 @@ cout<<"Aqui se muestra la matriz 1 y la matriz 2"<<endl;
 cout<<"**********************************"<<endl;
 for(int c=0;c<10;c++){
 		cout<<matriz1[c];
-		cout<<" - ";
+		cout<<" | ";
 }
 cout<<endl;
 for(int c=0;c<10;c++){
 		cout<<matriz2[c];
-		cout<<" - ";
+		cout<<" | ";
 		
 }
 cout<<endl;
@@ -38,7 +38,7 @@ cout<<"Aqui se muestra la resta de la matriz 1 y la matriz 2"<<endl;
 cout<<"**********************************"<<endl;
 for(int c=0;c<10;c++){
 	cout<<matriz1[c]-matriz2[c];
-	cout<<" - ";
+	cout<<" | ";
 }
 cout<<endl;
 
@@ -48,7 +48,7 @@ cout<<"Aqui se muestra la multiplicacion de la matriz 1 y la matriz 2 "<<endl;
 cout<<"**********************************"<<endl;
 for(int c=0;c<10;c++){
 	cout<<matriz1[c]*matriz2[c];
-	cout<<" - ";
+	cout<<" | ";
 }
 cout<<endl;
 // Montaño Luis
