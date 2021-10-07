@@ -1,3 +1,6 @@
+// ==========================================================================
+// hola ahor estoy mosrando este trabjo del ciclo paso a los nuevo estudiante
+// ===========================================================================
 #include<iostream>
 using namespace std;
 int main()
